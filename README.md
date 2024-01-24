@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Rohan Sutar</h1>
 <h3 align="center">A passionate frontend developer & programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
